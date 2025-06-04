@@ -4,4 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-schilke&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/jakob-schilke/jakob-schilke/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jakob-schilke/jakob-schilke/output/github-contribution-grid-snake.svg" />
+
