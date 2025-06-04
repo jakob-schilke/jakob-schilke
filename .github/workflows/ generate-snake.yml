@@ -23,12 +23,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           output_format: svg
-          color_snake: "#ffaa00"
-          color_dots: "#dddddd,#ff9900,#cc0000"
-          background: "#111111"
+          color_snake: "#d4a017"
+          color_dots: "#f7e17c,#d4a017,#7a5c00"
+          background: "#1a1a1a"
           resolution: 1280x720
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
